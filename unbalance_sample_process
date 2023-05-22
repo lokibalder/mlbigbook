@@ -7,6 +7,10 @@
 
 1. 模型层面
 1.1 加权loss
+核心思想：
+传统的交叉熵公式：
+$\alpha$
+
 1.2 Focal Loss
 1.3 GHM Loss
 
